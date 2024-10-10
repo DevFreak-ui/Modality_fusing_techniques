@@ -42,7 +42,8 @@ class ChestXrayDataset(Dataset):
         image = Image.open(img_name).convert('RGB')  # Ensure image is in RGB format
         image = self.transform(image)  # Apply normalization
 
-        image_embeddings = ImageEncoder(image).squeeze(0)  # Shape [768]
+        # Pass the file path to ImageEncoder instead of the image tensor
+        image_embeddings = ImageEncoder(img_name).squeeze(0)  # Shape [768]
 
         text = self.data.iloc[idx, -1]
         text_embeddings = text_encoder(text).squeeze(0)  # Shape [768]

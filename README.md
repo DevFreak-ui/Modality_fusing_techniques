@@ -1,3 +1,7 @@
+*Current Update*
+- Removed test feature
+- Fixed tensor shape mismatch (caused by test/production feature)
+
 *Update:*
 
 - Added a test feature to the train.py
