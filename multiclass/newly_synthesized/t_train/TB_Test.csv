@@ -1,0 +1,26 @@
+image,age,cough,fever,shortness_of_breath,chest_pain,crackles_rales,chest_xray_infiltrates,cbc_elevated_wbc_count,target,notes
+Tuberculosis-1.png,46,0,1,0,1,1,1,0,tuberculosis,"Chest X-ray shows upper lobe cavitary lesions, consistent with TB."
+Tuberculosis-10.png,59,1,0,1,1,1,0,1,tuberculosis,Recent exposure to a known TB case; testing initiated promptly.
+Tuberculosis-100.png,55,0,0,1,0,0,1,1,tuberculosis,Night sweats and fever reported; suggestive of active TB infection.
+Tuberculosis-101.png,78,1,1,0,0,1,1,1,tuberculosis,Patient reports recent travel to a region with high TB prevalence.
+Tuberculosis-102.png,60,1,0,1,0,0,1,0,tuberculosis,Weight loss and chronic cough are primary symptoms reported.
+Tuberculosis-103.png,45,1,0,0,0,1,0,0,tuberculosis,Chest X-ray reveals infiltrates and nodular opacities in both lungs.
+Tuberculosis-104.png,56,1,0,0,1,0,1,0,tuberculosis,Positive sputum smear test for acid-fast bacilli confirmed.
+Tuberculosis-105.png,45,1,0,0,0,0,0,1,tuberculosis,"Symptoms include fatigue, low-grade fever, and persistent cough."
+Tuberculosis-106.png,82,0,1,0,0,0,1,0,tuberculosis,Night sweats and fever reported; suggestive of active TB infection.
+Tuberculosis-107.png,75,1,1,0,0,0,1,0,tuberculosis,Patient reports recent travel to a region with high TB prevalence.
+Tuberculosis-108.png,19,0,0,0,0,1,1,1,tuberculosis,"Mantoux test shows induration greater than 15 mm, indicative of TB."
+Tuberculosis-109.png,53,0,1,1,0,1,0,1,tuberculosis,Weight loss and chronic cough are primary symptoms reported.
+Tuberculosis-11.png,52,1,1,1,1,0,0,0,tuberculosis,Persistent cough with intermittent blood-tinged sputum reported.
+Tuberculosis-110.png,18,0,0,0,1,0,1,0,tuberculosis,"Symptoms include fatigue, low-grade fever, and persistent cough."
+Tuberculosis-111.png,31,1,0,1,0,0,0,0,tuberculosis,Persistent cough with intermittent blood-tinged sputum reported.
+Normal-1.png,84,0,1,1,0,0,0,0,normal,Persistent cough with intermittent blood-tinged sputum reported.
+Normal-10.png,46,0,1,0,0,1,1,1,normal,"Chest X-ray shows upper lobe cavitary lesions, consistent with TB."
+Normal-100.png,83,0,0,0,1,0,0,1,normal,Positive sputum smear test for acid-fast bacilli confirmed.
+Normal-1000.png,22,1,0,0,0,0,1,0,normal,Recent exposure to a known TB case; testing initiated promptly.
+Normal-1001.png,84,0,1,0,0,1,1,0,normal,Weight loss and chronic cough are primary symptoms reported.
+Normal-1002.png,21,0,1,0,0,0,1,0,normal,"Mantoux test shows induration greater than 15 mm, indicative of TB."
+Normal-1003.png,58,0,0,1,1,1,0,1,normal,Chest X-ray reveals infiltrates and nodular opacities in both lungs.
+Normal-1004.png,73,0,1,0,0,0,1,1,normal,Recent exposure to a known TB case; testing initiated promptly.
+Normal-1005.png,49,0,0,0,0,0,1,0,normal,"Chest X-ray shows upper lobe cavitary lesions, consistent with TB."
+Normal-1006.png,84,1,1,0,0,1,0,1,normal,Night sweats and fever reported; suggestive of active TB infection.

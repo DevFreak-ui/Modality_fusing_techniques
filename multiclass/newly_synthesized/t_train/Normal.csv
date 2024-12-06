@@ -1,0 +1,1321 @@
+image,age,cough,fever,shortness_of_breath,chest_pain,crackles_rales,chest_xray_infiltrates,cbc_elevated_wbc_count,target,notes
+Normal-1007.png,59,0,1,0,0,1,1,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1008.png,74,0,0,0,0,1,0,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1009.png,80,0,0,1,0,0,1,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-101.png,32,0,0,0,1,0,0,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1010.png,19,1,1,0,0,0,0,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1011.png,19,0,0,0,0,0,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1012.png,33,1,0,0,1,0,0,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1013.png,36,1,1,1,1,1,1,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1014.png,60,0,1,0,0,0,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1015.png,18,1,0,1,0,1,0,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1016.png,59,0,0,0,0,0,1,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1017.png,42,0,1,0,0,0,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1018.png,68,0,1,0,1,1,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1019.png,35,0,1,0,1,1,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-102.png,73,1,0,1,0,1,1,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1020.png,46,0,0,0,0,1,1,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1021.png,48,1,0,0,0,0,0,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1022.png,45,1,0,1,1,1,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1023.png,24,0,0,0,0,0,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1024.png,60,0,0,1,0,1,0,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1025.png,59,0,0,1,0,1,1,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1026.png,33,0,1,1,0,0,0,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1027.png,46,0,1,0,0,0,0,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1028.png,60,0,0,0,1,0,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1029.png,33,0,0,1,1,1,0,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-103.png,73,1,0,0,0,1,0,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1030.png,40,0,1,1,0,1,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1031.png,84,1,0,0,1,0,1,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1032.png,21,1,1,0,1,1,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1033.png,83,1,1,1,0,1,1,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1034.png,54,1,1,0,0,0,1,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1035.png,47,0,1,1,0,1,1,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1036.png,49,0,1,1,1,0,1,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1037.png,18,0,1,1,1,0,0,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1038.png,55,0,1,0,0,1,0,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1039.png,41,1,0,1,1,1,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-104.png,44,1,1,0,0,0,0,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1040.png,32,0,1,0,0,1,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1041.png,50,0,0,1,0,0,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1042.png,76,0,1,0,0,1,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1043.png,38,1,0,0,0,0,0,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1044.png,23,0,0,1,1,0,1,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1045.png,48,1,1,1,1,1,0,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1046.png,22,1,0,1,1,0,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1047.png,62,0,0,1,1,1,0,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1048.png,42,1,1,0,0,0,1,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1049.png,27,1,1,0,1,0,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-105.png,33,1,0,1,1,0,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1050.png,72,0,0,1,0,0,0,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1051.png,18,1,0,1,1,0,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1052.png,37,1,1,0,0,0,1,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1053.png,77,1,0,1,0,1,0,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1054.png,44,0,0,1,1,1,1,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1055.png,79,1,1,0,1,0,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1056.png,73,0,0,0,0,1,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1057.png,25,1,1,1,0,1,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1058.png,36,1,0,1,1,0,1,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1059.png,39,1,0,1,0,1,1,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-106.png,82,1,1,1,1,0,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1060.png,46,0,1,0,0,1,1,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1061.png,59,0,1,0,0,0,0,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1062.png,39,0,1,0,1,0,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1063.png,61,1,0,0,0,0,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1064.png,41,0,0,1,1,1,1,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1065.png,61,0,0,1,0,0,0,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1066.png,73,0,0,0,1,0,1,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1067.png,79,1,1,0,0,1,0,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1068.png,69,0,0,1,0,0,1,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1069.png,19,1,0,0,0,1,0,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-107.png,78,0,0,0,0,1,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1070.png,32,0,0,1,0,0,0,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1071.png,22,0,0,0,0,0,1,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1072.png,23,1,1,0,0,0,1,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1073.png,51,0,1,1,1,0,1,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1074.png,28,1,1,0,1,1,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1075.png,42,1,1,1,0,0,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1076.png,40,0,1,1,1,0,1,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1077.png,55,0,0,1,0,0,0,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1078.png,84,1,0,1,1,1,1,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1079.png,20,1,1,0,0,1,0,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-108.png,72,1,0,0,1,1,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1080.png,63,1,1,0,1,1,0,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1081.png,82,1,0,1,0,1,1,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1082.png,79,1,1,1,0,1,0,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1083.png,84,1,1,1,1,1,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1084.png,57,0,1,1,1,1,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1085.png,76,1,0,0,1,0,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1086.png,26,1,0,0,0,1,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1087.png,35,0,0,1,0,0,0,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1088.png,37,0,0,1,0,1,0,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1089.png,48,0,1,1,0,0,1,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-109.png,23,1,1,1,0,1,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1090.png,44,0,0,1,0,1,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1091.png,61,1,1,0,1,0,1,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1092.png,21,1,1,1,1,0,1,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1093.png,62,1,1,1,0,1,1,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1094.png,55,1,1,1,0,1,1,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1095.png,47,1,1,1,1,0,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1096.png,19,1,1,0,0,0,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1097.png,70,1,0,0,0,0,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1098.png,28,1,1,1,1,0,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1099.png,70,1,0,1,1,0,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-11.png,78,0,0,0,1,0,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-110.png,28,0,1,0,1,1,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1100.png,84,1,0,0,1,0,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1101.png,41,0,0,0,1,1,1,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1102.png,70,0,1,0,0,0,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1103.png,55,0,1,0,0,1,1,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1104.png,52,0,1,0,0,1,0,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1105.png,45,0,0,1,0,0,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1106.png,62,1,0,1,1,0,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1107.png,21,0,1,1,1,0,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1108.png,25,1,0,0,0,0,0,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1109.png,85,1,1,0,0,1,0,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-111.png,21,0,1,1,1,1,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1110.png,79,0,0,1,1,0,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1111.png,83,1,0,1,0,0,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1112.png,61,1,1,1,0,1,1,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1113.png,75,0,1,1,1,0,1,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1114.png,47,1,0,1,1,1,1,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1115.png,38,0,0,0,0,0,0,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1116.png,40,0,1,0,0,0,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1117.png,35,0,0,1,0,1,1,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1118.png,50,0,1,1,1,1,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1119.png,55,0,0,1,0,0,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-112.png,45,0,0,1,1,1,0,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1120.png,59,0,1,1,1,1,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1121.png,52,0,0,0,0,1,1,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1122.png,61,0,0,1,0,1,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1123.png,75,0,0,0,1,0,0,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1124.png,26,1,0,0,1,1,1,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1125.png,58,1,0,0,1,1,1,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1126.png,28,1,1,1,0,0,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1127.png,78,1,1,0,1,0,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1128.png,47,1,1,1,0,1,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1129.png,76,1,0,1,0,0,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-113.png,48,0,1,1,0,0,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1130.png,66,0,0,1,0,1,0,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1131.png,80,0,0,1,1,1,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1132.png,77,0,1,0,0,1,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1133.png,79,0,0,1,0,0,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1134.png,71,0,1,0,0,0,1,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1135.png,36,1,1,0,0,1,1,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1136.png,30,1,1,0,1,0,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1137.png,69,0,1,0,0,1,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1138.png,56,0,1,1,0,0,0,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1139.png,41,0,1,0,1,1,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-114.png,51,1,0,0,1,0,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1140.png,33,1,0,0,0,1,1,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1141.png,51,1,0,0,0,1,1,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1142.png,65,0,1,1,1,1,1,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1143.png,62,0,0,0,0,1,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1144.png,74,0,1,0,1,1,1,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1145.png,55,0,0,0,0,1,0,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1146.png,45,1,0,1,0,1,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1147.png,65,1,0,1,1,0,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1148.png,33,0,0,1,1,1,0,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1149.png,21,0,0,1,1,0,0,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-115.png,78,0,0,0,1,1,0,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1150.png,33,0,0,1,1,0,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1151.png,66,1,0,1,1,1,1,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1152.png,19,0,0,0,1,1,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1153.png,22,1,0,0,0,0,0,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1154.png,49,1,0,0,0,0,0,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1155.png,83,1,1,1,0,1,0,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1156.png,73,0,1,0,0,0,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1157.png,37,1,0,0,1,1,0,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1158.png,20,1,0,0,0,1,0,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1159.png,25,1,1,0,0,1,1,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-116.png,50,0,0,0,0,1,0,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1160.png,38,0,0,0,1,0,1,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1161.png,76,0,1,1,1,1,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1162.png,59,0,0,1,0,1,0,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1163.png,66,0,0,0,0,0,0,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1164.png,57,0,1,1,0,1,1,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1165.png,45,0,0,0,1,0,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1166.png,38,0,0,1,0,1,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1167.png,75,1,1,0,1,1,1,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1168.png,73,1,0,0,0,1,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1169.png,71,1,1,0,1,1,1,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-117.png,54,1,0,0,0,0,1,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1170.png,83,0,1,0,0,0,1,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1171.png,70,1,1,0,1,1,0,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1172.png,73,0,0,1,1,1,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1173.png,18,1,1,0,0,0,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1174.png,83,1,0,0,0,0,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1175.png,35,1,0,1,1,0,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1176.png,46,0,1,0,0,1,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1177.png,66,1,1,0,0,1,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1178.png,35,0,1,0,1,1,1,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1179.png,34,0,0,1,1,1,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-118.png,77,1,0,1,0,1,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1180.png,85,0,0,0,0,1,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1181.png,38,0,1,1,0,0,0,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1182.png,80,0,0,1,1,1,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1183.png,38,0,1,1,1,0,1,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1184.png,42,0,1,0,0,0,0,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1185.png,85,0,0,1,0,1,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1186.png,45,1,1,1,0,0,1,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1187.png,25,1,1,0,1,1,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1188.png,72,1,0,0,1,1,0,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1189.png,18,1,1,0,1,1,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-119.png,62,1,1,1,1,1,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1190.png,20,0,0,1,0,0,0,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1191.png,38,1,1,1,0,0,0,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1192.png,47,1,1,1,0,1,0,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1193.png,30,0,0,1,1,1,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1194.png,30,1,0,0,0,0,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1195.png,21,1,0,0,1,1,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1196.png,25,1,0,1,0,1,0,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1197.png,22,0,1,0,1,0,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1198.png,29,0,1,1,1,0,0,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1199.png,25,1,1,1,0,0,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-12.png,46,1,0,1,1,0,1,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-120.png,77,0,1,0,1,1,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1200.png,74,1,0,0,0,1,1,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1201.png,55,0,1,1,1,0,1,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1202.png,65,0,0,0,1,0,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1203.png,61,1,0,0,0,1,0,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1204.png,34,0,0,1,0,0,1,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1205.png,57,0,0,0,1,1,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1206.png,19,0,1,0,1,1,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1207.png,67,1,0,0,1,0,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1208.png,51,1,0,0,0,0,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1209.png,60,0,1,0,0,0,0,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-121.png,27,1,1,0,1,1,1,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1210.png,33,1,0,1,0,1,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1211.png,84,1,1,1,0,0,1,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1212.png,29,1,0,1,0,1,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1213.png,84,0,1,1,1,1,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1214.png,80,0,1,0,0,1,0,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1215.png,32,0,0,0,1,1,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1216.png,69,1,0,0,0,1,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1217.png,77,0,0,1,1,0,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1218.png,52,1,1,1,0,0,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1219.png,85,1,0,0,0,1,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-122.png,69,0,0,1,0,1,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1220.png,64,1,0,1,1,0,1,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1221.png,64,0,1,1,0,0,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1222.png,53,1,0,0,0,0,0,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1223.png,83,0,1,0,0,1,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1224.png,26,0,0,0,0,0,0,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1225.png,35,0,1,1,0,0,1,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1226.png,60,1,0,1,1,0,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1227.png,79,0,1,1,0,0,0,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1228.png,46,1,1,0,0,0,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1229.png,77,1,0,1,1,1,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-123.png,34,0,1,0,0,1,0,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1230.png,57,0,1,1,0,0,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1231.png,58,0,1,1,1,0,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1232.png,26,1,1,1,1,0,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1233.png,39,1,1,1,1,1,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1234.png,79,0,0,0,0,0,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1235.png,48,0,0,1,0,0,0,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1236.png,21,0,0,1,1,1,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1237.png,27,0,0,0,0,1,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1238.png,66,0,1,1,0,0,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1239.png,45,0,1,0,1,1,1,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-124.png,38,0,0,1,1,0,1,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1240.png,80,1,1,0,0,0,1,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1241.png,25,0,0,0,0,1,0,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1242.png,19,0,1,1,1,0,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1243.png,70,1,0,1,1,0,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1244.png,30,1,0,1,1,1,1,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1245.png,23,0,1,0,1,0,1,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1246.png,52,1,1,0,1,1,1,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1247.png,69,1,0,0,1,1,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1248.png,62,0,0,1,1,0,1,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1249.png,74,0,0,0,0,0,0,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-125.png,48,0,0,1,0,0,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1250.png,78,1,1,0,1,0,0,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1251.png,19,1,0,0,1,0,1,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1252.png,70,0,0,0,1,0,0,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1253.png,51,0,0,0,0,1,1,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1254.png,64,1,1,0,0,1,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1255.png,51,0,1,1,1,1,0,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1256.png,79,0,1,0,0,1,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1257.png,82,0,0,1,0,0,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1258.png,67,0,1,1,1,1,1,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1259.png,37,0,1,0,0,0,1,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-126.png,52,0,0,0,1,0,1,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1260.png,20,1,0,1,1,1,0,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1261.png,59,1,1,1,1,0,0,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1262.png,39,0,1,0,1,1,0,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1263.png,61,0,1,0,0,0,0,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1264.png,77,0,0,0,1,0,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1265.png,50,1,0,1,1,0,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1266.png,25,1,1,1,0,0,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1267.png,72,1,0,0,0,0,1,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1268.png,56,1,0,1,0,0,1,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1269.png,72,1,1,0,1,1,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-127.png,48,0,0,1,1,1,1,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1270.png,81,1,1,1,0,0,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1271.png,63,0,1,1,1,1,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1272.png,46,1,1,0,0,1,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1273.png,50,1,1,1,1,1,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1274.png,39,1,0,1,1,0,0,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1275.png,49,0,0,1,1,0,0,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1276.png,52,0,0,0,1,1,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1277.png,19,0,0,1,0,1,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1278.png,82,0,1,1,0,1,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1279.png,41,1,1,0,0,0,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-128.png,48,0,1,0,0,1,0,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1280.png,28,1,0,0,1,0,1,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1281.png,55,0,1,0,1,0,0,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1282.png,55,0,1,1,1,1,0,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1283.png,79,0,0,1,1,0,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1284.png,36,0,0,1,0,0,1,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1285.png,50,1,0,0,1,1,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1286.png,38,0,1,0,1,0,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1287.png,41,0,0,0,1,1,0,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1288.png,25,0,0,0,0,1,0,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1289.png,64,1,0,1,0,0,1,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-129.png,23,1,0,0,0,0,1,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1290.png,21,1,0,1,1,0,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1291.png,66,0,1,0,1,0,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1292.png,35,0,1,0,1,1,1,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1293.png,75,0,1,1,1,1,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1294.png,71,1,1,1,0,1,1,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1295.png,80,1,1,0,0,1,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1296.png,25,0,0,1,0,0,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1297.png,63,0,0,1,1,1,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1298.png,63,1,0,0,1,0,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1299.png,70,0,1,1,1,0,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-13.png,49,1,0,1,1,0,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-130.png,50,0,0,0,1,0,1,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1300.png,79,1,1,1,0,0,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1301.png,54,1,1,1,0,1,1,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1302.png,63,1,0,1,1,0,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1303.png,36,1,0,0,1,0,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1304.png,40,1,0,1,1,0,0,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1305.png,53,1,1,0,0,0,0,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1306.png,57,0,0,0,1,0,0,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1307.png,79,0,0,1,1,0,1,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1308.png,28,0,1,0,1,1,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1309.png,24,1,0,0,1,0,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-131.png,24,1,1,1,0,1,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1310.png,80,0,1,1,1,0,0,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1311.png,78,0,1,1,0,1,0,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1312.png,73,1,0,0,1,0,0,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1313.png,34,1,1,0,1,1,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1314.png,74,1,0,1,1,0,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1315.png,30,1,0,1,0,1,1,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1316.png,67,1,0,0,1,1,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1317.png,31,0,0,1,0,0,1,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1318.png,46,0,1,1,1,1,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1319.png,34,1,1,1,1,1,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-132.png,63,0,0,1,0,1,1,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1320.png,47,1,0,0,0,1,0,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1321.png,40,1,0,0,0,1,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1322.png,41,1,0,0,1,1,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1323.png,68,0,0,1,1,0,1,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1324.png,75,1,0,0,1,1,0,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1325.png,45,1,1,1,1,1,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1326.png,77,0,1,0,1,0,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1327.png,85,0,1,1,0,1,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1328.png,53,0,0,1,0,0,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1329.png,82,0,0,1,1,1,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-133.png,21,0,0,1,1,1,1,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1330.png,83,1,1,1,0,1,0,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1331.png,84,0,0,0,0,1,0,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1332.png,67,0,0,0,0,1,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1333.png,64,1,0,1,0,0,1,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1334.png,85,0,0,0,1,0,1,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1335.png,37,1,1,1,0,1,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1336.png,46,1,0,0,1,1,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1337.png,62,1,1,1,0,1,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1338.png,39,0,1,1,1,0,1,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1339.png,32,1,1,0,1,1,0,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-134.png,62,0,0,0,1,0,1,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1340.png,40,0,1,1,0,1,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1341.png,52,1,0,0,1,1,1,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1342.png,68,1,0,0,0,0,1,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1343.png,45,1,0,1,1,0,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1344.png,83,0,0,0,0,0,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1345.png,20,0,0,0,0,0,0,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1346.png,84,0,0,1,0,0,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1347.png,74,1,1,1,0,0,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1348.png,84,1,1,0,1,1,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1349.png,55,1,0,1,1,0,0,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-135.png,58,0,1,0,1,0,1,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1350.png,29,0,0,0,1,0,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1351.png,25,0,0,1,0,1,1,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1352.png,25,1,0,0,0,0,0,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1353.png,72,1,1,0,1,1,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1354.png,78,1,1,0,1,0,1,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1355.png,36,1,1,0,0,1,1,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1356.png,45,1,1,0,0,1,1,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1357.png,36,0,0,0,0,0,0,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1358.png,61,1,1,1,1,0,1,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1359.png,41,0,1,0,1,0,0,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-136.png,74,0,0,0,1,0,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1360.png,84,1,1,0,0,0,1,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1361.png,60,1,0,1,1,1,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1362.png,29,0,0,1,1,1,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1363.png,22,1,0,0,1,0,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1364.png,83,1,1,0,0,0,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1365.png,79,1,0,0,1,1,1,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1366.png,42,1,0,0,0,1,1,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1367.png,78,1,0,0,0,0,1,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1368.png,73,0,1,1,0,0,1,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1369.png,73,0,1,0,1,1,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-137.png,68,0,1,1,0,0,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1370.png,56,0,0,1,1,0,1,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1371.png,79,0,0,1,1,0,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1372.png,61,1,0,1,1,0,0,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1373.png,50,1,0,0,0,0,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1374.png,19,0,1,0,1,1,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1375.png,48,0,1,1,0,1,0,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1376.png,79,0,1,1,0,1,0,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1377.png,19,0,1,0,0,1,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1378.png,64,1,1,1,1,1,0,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1379.png,57,0,1,0,1,0,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-138.png,63,1,0,1,0,0,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1380.png,75,0,1,0,0,0,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1381.png,85,0,0,0,1,1,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1382.png,76,1,0,1,1,1,1,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1383.png,52,0,0,1,1,1,1,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1384.png,28,1,1,1,0,0,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1385.png,63,1,1,0,1,0,0,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1386.png,27,1,1,1,1,1,1,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1387.png,51,0,0,1,0,1,0,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1388.png,72,1,0,0,0,1,1,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1389.png,47,1,0,1,1,0,0,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-139.png,26,0,1,0,0,0,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1390.png,54,1,0,0,1,1,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1391.png,76,0,0,1,1,1,1,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1392.png,18,0,1,1,1,0,1,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1393.png,39,1,0,1,1,1,0,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1394.png,24,1,0,0,0,1,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1395.png,62,1,1,0,0,0,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1396.png,35,1,1,1,0,1,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1397.png,68,1,0,0,0,1,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1398.png,79,1,0,0,1,1,1,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1399.png,82,0,0,0,1,0,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-14.png,23,1,1,0,0,1,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-140.png,38,1,1,0,1,1,0,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1400.png,78,1,1,0,0,1,1,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1401.png,71,0,1,1,0,0,1,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1402.png,49,1,0,0,0,1,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1403.png,34,0,0,0,1,1,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1404.png,49,0,0,0,0,0,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1405.png,38,1,1,0,1,0,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1406.png,30,1,1,0,1,0,1,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1407.png,35,0,1,1,1,1,1,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1408.png,59,1,0,1,1,1,0,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1409.png,38,1,1,1,1,1,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-141.png,45,0,1,1,0,1,0,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1410.png,24,1,1,0,0,1,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1411.png,40,1,0,1,0,0,0,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1412.png,66,1,1,0,1,0,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1413.png,53,0,1,1,1,1,1,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1414.png,34,1,1,1,0,0,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1415.png,19,1,0,1,0,1,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1416.png,30,0,1,0,1,1,1,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1417.png,47,1,1,0,1,1,0,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1418.png,64,0,0,0,1,1,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1419.png,22,0,0,1,0,0,1,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-142.png,39,0,1,0,0,1,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1420.png,53,1,1,0,0,1,1,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1421.png,62,1,1,1,0,0,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1422.png,26,0,0,1,0,0,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1423.png,39,1,1,0,0,0,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1424.png,64,0,1,1,0,1,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1425.png,78,0,0,0,1,0,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1426.png,71,1,1,0,0,0,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1427.png,73,0,0,1,1,0,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1428.png,21,1,0,0,1,0,0,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1429.png,34,1,1,0,1,0,0,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-143.png,82,1,0,0,0,0,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1430.png,36,1,0,0,1,1,1,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1431.png,49,1,1,0,1,0,0,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1432.png,30,0,1,0,1,1,0,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1433.png,35,1,1,1,1,0,1,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1434.png,70,1,0,0,0,1,0,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1435.png,76,1,1,0,0,0,0,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1436.png,31,0,1,1,1,0,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1437.png,71,0,0,0,0,1,1,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1438.png,19,0,0,0,1,1,1,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1439.png,62,1,0,0,1,1,1,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-144.png,44,0,1,0,1,0,1,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1440.png,58,1,1,0,1,0,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1441.png,23,1,1,1,0,0,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1442.png,64,1,0,1,1,1,0,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1443.png,24,1,1,1,0,1,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1444.png,20,1,1,1,0,0,0,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1445.png,79,1,1,1,1,1,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1446.png,61,1,1,0,0,0,0,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1447.png,52,0,0,1,1,0,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1448.png,28,0,1,1,0,0,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1449.png,36,0,0,0,1,0,0,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-145.png,27,1,1,0,0,0,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1450.png,39,1,0,1,1,1,1,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1451.png,73,0,1,0,1,1,0,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1452.png,43,0,0,1,0,0,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1453.png,29,1,0,0,0,1,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1454.png,68,0,0,1,1,0,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1455.png,44,1,0,0,0,0,0,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1456.png,71,1,1,1,1,1,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1457.png,76,0,1,0,0,0,0,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1458.png,67,0,0,0,1,0,1,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1459.png,62,1,0,1,0,0,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-146.png,36,0,0,1,1,0,0,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1460.png,30,0,0,0,1,0,0,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1461.png,22,0,0,1,1,1,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1462.png,84,0,0,1,0,1,0,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1463.png,43,1,1,1,1,0,1,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1464.png,69,0,0,0,1,0,0,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1465.png,63,1,0,0,0,0,0,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1466.png,34,0,0,1,1,1,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1467.png,45,1,0,0,1,1,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1468.png,79,0,0,1,0,0,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1469.png,75,0,0,0,1,1,0,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-147.png,22,0,1,1,1,1,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1470.png,55,0,1,0,0,1,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1471.png,30,1,0,0,0,1,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1472.png,28,0,0,0,1,1,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1473.png,85,1,0,1,0,1,0,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1474.png,81,0,1,0,1,1,0,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1475.png,64,1,1,0,1,0,1,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1476.png,75,0,1,1,1,1,0,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1477.png,28,0,1,1,1,0,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1478.png,52,0,0,1,0,0,1,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1479.png,67,1,1,1,0,1,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-148.png,56,1,1,1,0,0,1,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1480.png,54,0,1,0,1,1,1,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1481.png,49,0,1,1,0,0,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1482.png,41,1,0,1,0,1,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1483.png,50,0,1,1,1,0,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1484.png,56,0,0,1,0,1,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1485.png,79,0,1,1,1,0,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1486.png,81,1,0,0,1,1,0,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1487.png,26,1,1,0,1,0,0,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1488.png,31,1,1,0,0,0,0,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1489.png,50,0,0,0,1,1,0,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-149.png,64,1,0,0,1,0,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1490.png,72,1,1,0,1,1,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1491.png,77,1,1,0,0,1,0,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1492.png,20,1,0,0,0,0,1,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1493.png,67,1,0,1,1,1,1,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1494.png,75,0,0,0,0,1,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1495.png,73,1,0,0,0,0,1,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1496.png,75,0,1,1,1,0,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1497.png,47,0,1,0,0,1,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1498.png,29,0,1,1,0,0,0,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1499.png,41,0,1,1,1,1,0,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-15.png,33,0,0,0,0,1,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-150.png,22,0,1,0,0,0,0,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1500.png,67,0,1,1,0,1,1,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1501.png,83,1,1,1,1,1,1,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1502.png,58,1,0,1,0,1,0,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1503.png,63,0,1,1,0,0,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1504.png,58,1,1,1,0,1,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1505.png,72,1,0,0,0,0,0,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1506.png,53,0,1,1,0,1,0,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1507.png,77,0,1,1,0,0,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1508.png,25,0,1,0,0,1,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1509.png,46,0,0,0,1,1,0,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-151.png,69,0,0,1,0,0,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1510.png,21,0,0,0,0,1,0,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1511.png,62,0,0,0,0,1,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1512.png,67,0,1,0,1,1,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1513.png,70,1,1,1,1,0,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1514.png,28,0,1,1,0,0,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1515.png,25,0,1,1,0,1,1,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1516.png,63,0,1,0,1,1,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1517.png,42,1,0,0,1,1,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1518.png,62,1,1,0,1,0,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1519.png,34,1,1,1,1,1,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-152.png,72,0,1,0,0,0,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1520.png,70,0,1,0,1,0,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1521.png,83,1,0,0,0,1,0,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1522.png,43,0,1,1,0,0,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1523.png,61,1,1,1,0,0,0,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1524.png,58,0,0,0,0,1,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1525.png,77,0,1,0,1,1,1,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1526.png,19,1,0,0,1,1,1,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1527.png,78,1,1,1,1,0,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1528.png,34,0,1,1,1,0,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1529.png,57,0,0,1,0,1,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-153.png,49,0,1,1,1,0,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1530.png,83,0,0,1,1,0,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1531.png,37,0,0,1,0,0,0,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1532.png,69,1,1,0,0,0,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1533.png,56,0,0,1,1,0,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1534.png,41,0,0,0,0,1,0,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1535.png,27,1,1,0,0,1,1,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1536.png,53,0,0,0,0,0,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1537.png,75,0,1,0,1,0,0,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1538.png,66,1,1,1,0,0,0,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1539.png,40,0,1,1,0,0,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-154.png,29,0,0,1,0,0,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1540.png,42,1,0,1,0,1,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1541.png,49,0,1,0,0,1,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1542.png,64,1,0,0,1,1,1,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1543.png,74,0,1,1,1,1,0,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1544.png,31,1,0,1,0,0,1,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1545.png,41,0,1,1,1,1,0,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1546.png,29,1,0,1,0,1,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1547.png,72,1,0,1,0,0,1,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1548.png,80,1,0,0,1,1,0,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1549.png,67,0,0,0,0,0,1,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-155.png,37,1,1,0,0,0,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1550.png,46,0,0,0,0,1,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1551.png,27,1,0,0,1,0,0,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1552.png,83,1,0,1,0,1,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1553.png,78,1,0,1,0,1,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1554.png,67,0,1,0,1,0,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1555.png,73,0,0,0,1,1,0,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1556.png,32,1,0,1,1,0,1,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1557.png,34,0,0,0,0,1,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1558.png,35,1,0,0,1,1,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1559.png,35,1,1,0,1,1,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-156.png,31,1,1,0,1,0,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1560.png,62,1,0,0,1,1,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1561.png,57,0,1,0,1,0,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1562.png,69,1,1,0,0,1,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1563.png,23,0,0,1,1,0,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1564.png,66,0,1,0,1,0,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1565.png,51,0,1,0,0,0,0,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1566.png,52,0,1,0,1,0,1,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1567.png,74,0,0,0,0,0,1,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1568.png,37,0,1,0,1,1,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1569.png,23,1,1,1,0,1,1,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-157.png,36,1,0,1,0,0,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1570.png,28,0,1,1,1,1,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1571.png,49,1,0,1,0,0,0,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1572.png,70,1,0,1,1,1,1,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1573.png,45,0,0,0,1,0,1,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1574.png,26,1,1,1,1,0,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1575.png,42,1,1,0,1,1,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1576.png,76,1,0,0,1,1,1,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1577.png,75,0,1,0,0,0,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1578.png,66,0,1,0,0,1,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1579.png,21,1,1,1,1,1,1,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-158.png,80,0,0,0,0,0,1,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1580.png,60,1,0,0,0,0,1,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1581.png,25,0,1,1,1,1,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1582.png,41,1,0,0,1,1,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1583.png,80,1,0,0,0,0,1,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1584.png,81,1,0,1,1,0,0,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1585.png,49,0,1,1,1,0,1,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1586.png,64,1,0,0,1,0,0,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1587.png,39,1,0,0,0,1,1,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1588.png,42,1,0,0,0,0,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1589.png,46,1,1,0,0,0,0,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-159.png,74,0,1,0,1,1,0,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1590.png,52,1,1,0,0,0,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1591.png,59,1,1,0,0,0,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1592.png,53,0,1,0,1,1,1,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1593.png,18,0,0,0,1,0,1,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1594.png,40,0,1,0,1,0,0,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1595.png,71,0,1,0,0,1,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1596.png,58,1,0,1,0,1,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1597.png,27,0,1,0,1,0,1,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1598.png,18,1,1,1,0,0,1,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1599.png,35,1,0,0,0,1,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-16.png,78,1,1,0,1,0,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-160.png,51,1,1,0,1,0,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1600.png,45,1,0,0,1,1,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1601.png,23,0,1,0,1,1,1,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1602.png,67,1,1,0,1,1,1,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1603.png,22,0,1,0,1,0,1,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1604.png,73,0,0,0,1,1,0,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1605.png,21,0,1,0,0,0,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1606.png,36,0,1,0,1,0,0,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1607.png,42,0,0,1,0,1,0,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1608.png,19,1,1,1,0,0,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1609.png,56,0,1,0,1,0,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-161.png,80,1,1,0,0,0,0,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1610.png,51,1,0,0,0,1,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1611.png,77,1,1,0,1,0,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1612.png,51,0,1,1,1,1,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1613.png,63,1,1,1,0,0,1,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1614.png,63,1,0,1,1,1,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1615.png,29,0,0,1,0,0,1,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1616.png,27,0,0,0,1,1,0,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1617.png,33,1,1,1,1,0,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1618.png,64,1,0,0,1,0,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1619.png,50,0,0,1,0,0,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-162.png,36,1,1,1,1,0,0,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1620.png,69,0,0,1,0,0,1,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1621.png,47,1,0,0,1,0,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1622.png,32,0,0,0,0,1,1,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1623.png,60,0,1,1,1,0,0,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1624.png,56,0,1,0,1,1,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1625.png,74,0,1,0,0,1,1,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1626.png,79,1,0,1,1,1,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1627.png,78,0,1,0,1,0,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1628.png,37,0,1,1,0,0,1,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1629.png,46,0,0,1,1,1,1,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-163.png,80,0,0,0,0,0,0,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1630.png,57,0,1,1,1,1,1,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1631.png,64,1,1,1,1,0,1,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1632.png,37,0,1,1,0,0,0,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1633.png,75,1,1,0,1,0,1,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1634.png,52,0,0,0,0,0,1,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1635.png,82,1,1,0,0,1,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1636.png,42,0,0,1,0,0,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1637.png,29,0,1,0,0,0,1,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1638.png,44,1,0,1,0,1,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1639.png,76,0,0,0,1,0,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-164.png,51,0,0,1,1,0,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1640.png,80,0,1,0,1,0,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1641.png,23,0,0,1,0,1,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1642.png,58,0,1,1,1,0,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1643.png,47,0,1,0,0,0,0,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1644.png,20,0,0,0,1,1,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1645.png,18,1,1,0,1,0,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1646.png,57,0,0,0,1,0,1,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1647.png,78,0,0,0,1,1,0,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1648.png,30,0,1,0,0,0,0,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1649.png,25,1,0,1,0,0,1,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-165.png,42,0,0,0,0,1,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1650.png,35,1,0,1,0,1,1,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1651.png,61,0,1,1,0,0,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1652.png,67,0,0,0,0,0,1,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1653.png,40,0,1,1,1,0,1,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1654.png,65,0,0,0,0,1,0,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1655.png,66,1,1,1,0,1,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1656.png,84,0,1,1,1,1,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1657.png,39,1,0,0,0,0,1,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1658.png,28,1,1,1,1,0,0,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1659.png,41,1,1,0,1,0,1,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-166.png,25,1,1,1,1,1,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1660.png,23,0,0,0,1,1,1,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1661.png,21,0,0,0,0,0,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1662.png,40,1,1,0,1,0,1,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1663.png,85,1,0,1,0,0,0,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1664.png,67,1,1,0,1,1,0,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1665.png,19,1,0,0,1,1,1,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1666.png,81,0,0,1,0,0,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1667.png,77,0,0,0,0,1,1,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1668.png,69,0,0,1,1,1,0,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1669.png,71,0,0,1,1,1,1,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-167.png,72,1,0,0,1,1,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1670.png,39,0,0,1,0,0,0,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1671.png,35,1,1,1,0,1,1,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1672.png,35,0,0,0,0,0,1,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1673.png,20,0,1,0,1,1,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1674.png,45,0,1,1,0,0,0,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1675.png,52,0,0,0,0,1,0,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1676.png,70,0,1,0,1,0,0,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1677.png,76,1,0,0,0,0,0,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1678.png,52,0,0,1,0,1,0,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1679.png,82,0,1,1,1,0,1,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-168.png,29,0,1,0,0,1,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1680.png,44,0,0,0,0,1,0,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1681.png,74,0,1,1,0,1,0,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1682.png,48,1,1,0,0,0,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1683.png,28,1,1,1,0,1,1,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1684.png,83,1,0,0,0,1,0,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1685.png,52,1,0,0,1,1,1,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1686.png,77,1,0,1,0,1,0,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1687.png,65,1,0,1,1,1,0,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1688.png,67,0,1,0,0,1,1,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1689.png,83,0,0,1,0,1,0,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-169.png,77,0,0,1,1,1,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1690.png,71,0,0,1,1,1,0,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1691.png,20,1,1,1,0,0,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1692.png,73,0,0,1,1,1,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1693.png,21,0,1,0,0,1,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1694.png,23,1,1,1,0,1,0,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1695.png,76,0,1,0,0,1,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1696.png,42,1,1,0,0,0,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1697.png,26,1,1,1,0,0,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1698.png,68,0,1,1,1,1,0,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1699.png,48,0,1,0,1,1,0,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-17.png,37,0,0,0,0,1,0,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-170.png,59,0,0,1,0,0,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1700.png,69,0,0,0,0,0,0,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1701.png,64,0,0,1,0,1,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1702.png,32,0,1,0,1,1,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1703.png,39,0,0,0,0,1,1,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1704.png,75,1,0,1,0,1,1,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1705.png,61,0,1,1,1,0,1,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1706.png,31,0,1,1,0,0,0,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1707.png,85,0,1,1,0,0,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1708.png,70,1,0,0,1,0,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1709.png,73,0,1,1,0,0,0,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-171.png,47,0,1,0,0,1,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1710.png,21,1,1,1,1,0,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1711.png,34,0,1,0,1,1,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1712.png,59,1,0,1,0,0,0,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1713.png,46,0,1,0,1,0,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1714.png,23,1,1,1,1,1,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1715.png,69,0,0,0,0,0,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1716.png,41,0,0,0,1,0,0,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1717.png,65,0,1,1,0,0,0,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1718.png,65,1,0,1,0,1,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1719.png,68,0,1,0,1,0,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-172.png,85,0,1,0,0,0,0,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1720.png,68,0,1,1,0,1,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1721.png,46,1,0,1,1,0,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1722.png,19,0,0,1,0,1,0,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1723.png,41,1,0,1,0,0,1,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1724.png,26,1,0,0,1,1,0,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1725.png,59,0,0,0,0,1,0,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1726.png,56,1,0,1,1,0,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1727.png,65,1,0,1,1,0,0,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1728.png,25,1,1,1,0,0,1,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1729.png,48,1,0,0,1,0,1,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-173.png,20,1,1,0,1,0,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1730.png,52,1,0,1,1,0,0,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1731.png,65,0,0,1,0,0,1,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1732.png,24,0,1,0,0,1,1,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1733.png,58,0,1,1,0,1,1,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1734.png,66,0,1,1,0,1,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1735.png,74,0,1,1,0,0,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1736.png,27,1,0,1,1,1,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1737.png,37,1,0,1,1,0,0,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1738.png,35,1,1,0,0,0,0,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1739.png,69,0,1,1,1,1,0,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-174.png,72,0,0,0,0,0,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1740.png,80,1,0,0,1,1,1,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1741.png,80,1,0,1,1,0,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1742.png,60,0,0,1,0,1,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1743.png,78,1,0,0,0,0,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1744.png,59,0,0,1,0,1,1,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1745.png,49,1,0,1,0,1,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1746.png,45,0,1,1,0,1,1,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1747.png,66,0,1,1,1,1,0,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1748.png,62,1,1,1,0,1,1,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1749.png,83,0,0,1,0,0,1,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-175.png,85,1,1,1,0,0,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1750.png,80,1,0,0,0,0,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1751.png,47,0,0,1,1,1,1,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1752.png,39,0,1,0,1,0,0,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1753.png,85,0,0,0,0,1,1,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1754.png,18,0,1,0,0,0,0,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1755.png,44,1,1,1,1,0,0,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1756.png,46,0,0,0,0,1,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1757.png,76,1,0,1,0,1,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1758.png,77,1,1,1,1,0,1,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1759.png,65,1,1,0,0,0,0,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-176.png,54,1,0,0,0,1,0,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1760.png,72,0,0,1,1,0,0,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1761.png,33,0,0,1,1,1,0,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1762.png,32,0,1,0,1,0,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1763.png,24,1,0,1,0,0,1,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1764.png,39,0,1,1,1,1,1,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1765.png,18,0,1,0,0,0,1,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1766.png,22,1,0,0,1,1,0,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1767.png,80,0,1,0,1,0,1,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1768.png,19,1,1,0,0,1,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1769.png,83,1,1,1,1,0,0,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-177.png,73,0,0,1,0,1,0,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1770.png,47,0,1,1,0,1,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1771.png,38,1,0,0,0,0,0,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1772.png,66,0,0,1,0,0,1,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1773.png,81,0,0,0,0,1,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1774.png,39,1,0,1,1,0,1,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1775.png,47,1,1,1,0,1,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1776.png,57,1,1,0,1,1,0,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1777.png,41,0,0,0,0,1,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1778.png,33,0,1,0,0,1,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1779.png,31,0,1,1,0,1,1,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-178.png,51,1,0,1,0,1,1,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1780.png,75,1,0,0,0,0,0,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1781.png,33,1,1,0,0,1,1,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1782.png,47,0,0,1,1,0,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1783.png,45,1,0,1,1,1,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1784.png,77,1,0,0,1,0,0,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1785.png,77,0,0,0,1,0,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1786.png,45,0,1,0,1,1,0,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1787.png,65,1,1,0,1,0,0,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1788.png,59,1,1,1,0,0,0,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1789.png,18,1,1,0,0,1,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-179.png,63,1,1,1,0,0,0,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1790.png,81,0,1,1,0,0,0,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1791.png,52,0,0,1,1,1,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1792.png,39,0,0,0,0,0,0,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1793.png,46,0,0,1,1,1,1,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1794.png,45,1,1,1,1,1,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1795.png,73,1,0,0,0,1,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1796.png,61,1,1,0,0,1,1,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1797.png,37,0,0,1,1,1,1,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1798.png,29,1,1,0,1,1,0,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1799.png,21,1,1,0,0,0,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-18.png,35,0,0,0,0,1,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-180.png,79,0,0,0,1,0,1,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1800.png,23,1,1,0,0,0,1,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1801.png,19,0,1,1,0,1,1,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1802.png,71,0,0,0,1,1,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1803.png,58,1,0,1,1,1,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1804.png,25,1,0,1,1,1,0,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1805.png,51,1,1,0,0,1,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1806.png,70,0,1,0,0,0,1,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1807.png,85,0,1,1,1,1,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1808.png,37,1,1,0,0,1,1,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1809.png,82,1,0,0,1,0,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-181.png,39,0,0,0,0,0,1,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1810.png,64,0,0,0,0,0,1,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1811.png,52,0,0,0,0,1,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1812.png,63,1,1,0,1,1,1,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1813.png,76,1,0,1,1,0,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1814.png,57,0,1,0,1,1,0,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1815.png,22,1,1,1,1,0,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1816.png,48,0,1,0,1,1,0,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1817.png,37,1,0,0,0,1,0,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1818.png,49,1,0,1,0,0,1,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1819.png,75,1,1,0,0,0,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-182.png,79,0,1,0,0,1,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1820.png,30,1,0,1,0,1,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1821.png,80,0,0,0,0,1,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1822.png,75,0,0,1,1,0,0,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1823.png,82,0,1,0,1,1,0,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1824.png,59,0,0,1,1,1,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1825.png,37,1,1,0,0,0,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1826.png,24,1,1,1,1,0,0,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1827.png,63,1,0,0,1,1,1,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1828.png,48,0,1,1,0,0,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1829.png,23,1,1,1,0,0,1,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-183.png,42,1,0,1,0,0,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1830.png,44,0,0,0,1,1,0,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1831.png,55,1,1,0,0,1,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1832.png,75,0,1,1,1,0,0,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1833.png,67,1,0,1,1,0,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1834.png,62,0,0,1,1,0,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1835.png,63,0,1,0,1,0,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1836.png,85,0,0,1,1,1,0,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1837.png,42,1,1,1,0,1,0,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1838.png,38,1,1,0,1,1,0,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1839.png,54,0,0,0,1,1,1,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-184.png,61,1,0,1,0,0,1,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1840.png,60,1,1,0,0,0,0,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1841.png,85,0,0,1,0,0,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1842.png,24,1,1,0,0,1,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1843.png,36,1,1,1,1,1,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1844.png,21,0,0,0,0,1,0,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1845.png,39,1,0,1,0,0,1,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1846.png,30,0,1,0,0,1,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1847.png,74,1,0,1,0,0,1,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1848.png,73,0,0,1,0,0,1,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1849.png,81,1,1,1,1,1,0,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-185.png,61,1,1,0,1,0,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1850.png,30,1,0,1,0,1,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1851.png,46,0,0,0,1,0,1,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1852.png,51,0,1,1,1,1,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1853.png,38,0,0,1,0,0,0,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1854.png,70,1,0,1,0,0,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1855.png,59,0,1,1,1,0,0,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1856.png,35,0,1,0,0,1,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1857.png,27,0,1,0,0,1,1,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1858.png,41,0,1,0,1,1,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1859.png,78,1,1,0,0,0,0,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-186.png,25,0,0,1,1,1,0,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1860.png,73,1,1,1,1,1,1,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1861.png,69,1,0,1,0,1,0,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1862.png,85,1,0,1,1,0,1,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1863.png,64,1,1,0,0,1,1,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1864.png,66,0,0,0,0,0,1,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1865.png,57,1,1,1,0,0,1,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1866.png,55,1,1,0,1,0,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1867.png,70,0,1,1,0,1,1,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1868.png,52,0,1,0,1,1,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1869.png,57,0,0,1,0,1,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-187.png,65,0,1,0,1,1,1,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1870.png,37,1,1,0,1,1,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1871.png,50,0,1,0,1,1,1,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1872.png,29,1,1,0,1,0,0,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1873.png,49,1,1,1,1,0,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1874.png,70,0,0,0,0,0,0,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1875.png,55,0,0,0,1,0,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1876.png,55,1,0,1,0,0,1,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1877.png,80,1,0,0,1,1,0,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1878.png,51,1,1,1,1,0,1,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1879.png,59,0,0,1,1,0,0,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-188.png,72,1,0,1,1,1,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1880.png,66,0,1,1,1,1,0,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1881.png,56,1,0,0,1,1,0,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1882.png,85,1,0,0,1,1,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1883.png,45,1,0,0,1,0,0,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1884.png,46,0,1,0,1,0,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1885.png,23,1,1,1,0,1,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1886.png,26,1,0,1,0,0,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1887.png,18,1,1,1,0,1,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1888.png,84,0,1,1,1,0,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1889.png,20,1,0,1,0,1,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-189.png,19,0,1,0,1,1,1,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1890.png,77,1,1,0,0,1,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1891.png,53,0,1,0,0,1,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1892.png,56,0,1,0,1,0,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1893.png,67,1,0,0,0,0,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1894.png,26,1,0,1,1,0,1,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1895.png,53,0,0,0,1,1,1,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1896.png,26,1,1,1,1,1,0,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1897.png,44,0,0,0,1,1,0,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1898.png,83,1,0,1,0,1,0,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1899.png,52,0,0,1,1,1,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-19.png,45,1,1,1,0,1,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-190.png,33,1,0,0,0,1,1,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1900.png,33,1,0,1,0,0,1,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1901.png,52,0,1,1,1,1,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1902.png,20,1,1,0,0,1,0,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1903.png,34,1,1,0,1,0,0,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1904.png,32,0,0,0,1,1,1,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1905.png,34,0,1,1,1,1,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1906.png,85,1,0,1,1,1,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1907.png,41,0,0,1,1,0,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1908.png,57,1,1,1,1,1,1,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1909.png,77,0,0,0,0,1,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-191.png,58,1,1,1,0,0,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1910.png,31,0,0,0,0,0,0,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1911.png,30,0,0,0,0,1,1,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1912.png,65,0,1,0,0,0,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1913.png,58,0,0,0,1,1,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1914.png,26,1,0,1,1,0,1,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1915.png,18,1,1,1,0,0,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1916.png,46,0,0,1,1,0,0,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1917.png,32,1,1,0,1,1,1,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1918.png,34,1,1,1,1,1,0,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1919.png,85,0,0,0,1,1,0,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-192.png,67,1,0,0,0,1,0,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1920.png,51,1,1,0,1,1,0,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1921.png,46,0,0,1,0,0,1,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1922.png,26,1,1,0,0,1,1,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1923.png,41,0,0,1,1,1,0,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1924.png,24,0,1,0,0,1,0,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1925.png,53,0,0,0,0,1,0,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1926.png,51,0,0,0,0,0,1,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1927.png,48,1,0,0,1,1,0,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1928.png,74,1,1,0,0,1,1,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1929.png,24,1,0,0,0,0,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-193.png,83,0,1,1,0,0,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1930.png,58,0,1,1,0,0,1,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1931.png,85,1,0,0,0,1,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1932.png,62,1,1,0,0,1,0,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1933.png,24,0,1,1,1,0,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1934.png,79,0,1,1,1,0,1,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1935.png,25,1,0,1,1,0,0,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1936.png,75,0,0,0,1,0,0,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1937.png,36,0,1,1,0,0,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1938.png,50,1,0,0,0,0,1,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1939.png,80,0,0,1,1,0,0,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-194.png,59,0,1,0,1,0,1,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1940.png,81,1,0,1,1,0,1,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1941.png,38,0,0,0,0,1,0,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1942.png,73,1,0,1,0,0,0,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1943.png,23,0,1,0,1,0,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1944.png,51,1,1,0,0,0,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1945.png,18,1,0,0,1,0,1,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1946.png,78,1,1,1,0,0,0,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1947.png,53,0,0,1,0,1,0,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1948.png,43,0,1,0,0,1,1,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1949.png,55,1,1,0,0,0,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-195.png,41,0,0,0,0,1,0,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1950.png,56,1,0,0,0,0,1,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1951.png,38,0,0,0,0,1,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1952.png,66,0,1,0,1,0,1,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1953.png,70,0,0,1,1,1,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1954.png,30,1,1,0,1,1,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1955.png,27,0,0,0,0,0,0,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1956.png,55,1,1,0,1,0,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1957.png,49,1,0,1,0,0,0,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1958.png,84,0,0,0,0,1,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1959.png,66,0,0,1,1,1,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-196.png,74,0,0,0,0,0,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1960.png,53,0,1,1,0,0,1,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1961.png,42,0,0,0,0,1,1,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1962.png,25,0,1,1,1,1,0,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1963.png,80,0,0,0,0,1,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1964.png,54,1,1,0,1,0,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1965.png,53,0,0,0,1,0,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1966.png,82,1,1,0,1,0,0,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1967.png,46,1,1,0,1,0,0,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1968.png,38,1,0,0,0,0,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1969.png,79,1,1,1,0,1,0,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-197.png,80,0,1,1,0,0,1,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1970.png,60,1,1,0,1,1,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-1971.png,53,1,1,1,0,0,0,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1972.png,19,0,1,1,0,1,0,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-1973.png,85,0,0,0,0,0,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1974.png,27,0,1,0,1,1,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1975.png,53,1,0,1,0,1,0,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1976.png,55,0,1,1,0,0,0,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1977.png,25,1,1,0,1,0,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-1978.png,76,0,1,0,0,1,0,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1979.png,43,0,0,0,0,0,1,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-198.png,60,0,0,0,1,1,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1980.png,78,0,1,0,1,1,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1981.png,74,0,1,0,1,0,0,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1982.png,60,0,1,1,0,1,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1983.png,30,0,1,1,0,1,1,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-1984.png,42,1,1,0,1,0,1,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1985.png,59,0,0,0,0,0,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-1986.png,23,1,0,1,0,0,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1987.png,41,0,1,1,1,1,0,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-1988.png,53,0,0,0,0,1,1,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1989.png,35,0,0,1,1,0,1,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-199.png,82,0,1,1,1,0,1,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1990.png,41,1,1,0,0,1,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1991.png,20,1,1,1,1,0,1,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1992.png,64,1,0,1,1,0,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-1993.png,18,1,1,1,1,1,0,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-1994.png,73,0,1,0,1,1,0,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1995.png,62,1,1,1,1,1,1,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-1996.png,77,0,1,1,0,1,0,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1997.png,26,0,0,1,0,1,1,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-1998.png,67,0,0,0,1,0,0,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-1999.png,71,0,1,1,1,1,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-2.png,71,1,1,0,1,1,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-20.png,58,0,1,0,0,1,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-200.png,50,1,0,1,1,1,1,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-2000.png,62,1,0,0,1,0,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-2001.png,51,1,0,0,0,0,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-2002.png,85,1,0,1,0,0,0,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-2003.png,45,0,1,0,1,1,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-2004.png,44,1,0,0,0,0,1,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-2005.png,77,0,0,0,0,0,1,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-2006.png,84,1,1,1,0,1,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-2007.png,56,0,1,1,1,1,1,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-2008.png,75,0,0,0,1,1,1,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-2009.png,25,1,1,1,1,0,1,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-201.png,52,1,1,1,0,0,0,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-2010.png,82,1,0,1,1,1,0,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-2011.png,55,1,0,0,1,1,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-2012.png,21,0,0,0,1,1,0,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-2013.png,30,0,0,0,1,0,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-2014.png,33,0,1,0,0,0,0,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-2015.png,39,0,1,0,1,0,0,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-2016.png,70,0,1,1,0,0,0,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-2017.png,65,1,0,1,1,0,1,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-2018.png,84,1,0,0,1,1,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-2019.png,49,0,0,0,0,0,1,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-202.png,45,1,0,0,1,0,1,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-2020.png,81,0,1,1,1,0,1,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-2021.png,49,1,0,0,1,1,1,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-2022.png,48,1,0,1,0,1,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-2023.png,29,0,1,0,0,1,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-2024.png,72,1,0,0,1,0,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-2025.png,81,0,1,1,1,0,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-2026.png,74,1,0,1,1,0,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-2027.png,51,0,0,0,1,0,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-2028.png,31,1,0,0,0,0,1,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-2029.png,73,0,1,1,1,1,0,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-203.png,59,1,0,0,0,1,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-2030.png,72,0,0,0,1,1,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-2031.png,63,1,1,1,1,0,1,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-2032.png,38,0,1,1,0,1,0,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-2033.png,24,0,1,0,1,0,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-2034.png,32,1,1,0,1,0,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-2035.png,55,0,1,1,1,1,1,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-2036.png,23,0,0,0,0,0,1,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-2037.png,61,1,1,1,1,0,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-2038.png,25,1,0,0,1,0,0,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-2039.png,21,1,0,0,0,0,1,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-204.png,36,1,1,1,0,1,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-2040.png,58,0,0,1,1,0,0,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-2041.png,39,1,1,1,1,1,1,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-2042.png,54,1,0,1,0,1,0,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-2043.png,39,1,0,0,0,0,0,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-2044.png,77,1,1,0,1,0,1,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-2045.png,38,0,0,0,1,0,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-2046.png,67,0,0,0,1,0,1,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-2047.png,34,0,1,0,0,0,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-2048.png,42,0,0,0,1,1,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-2049.png,24,1,0,1,0,0,0,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-205.png,27,0,0,1,0,1,0,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-2050.png,66,0,0,1,0,0,0,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-2051.png,57,0,1,1,0,0,1,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-2052.png,30,1,1,0,0,0,0,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-2053.png,45,1,0,0,1,1,0,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-2054.png,23,0,1,1,1,0,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-2055.png,84,0,1,0,0,1,0,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-2056.png,76,0,1,1,1,0,0,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-2057.png,80,1,1,0,1,0,1,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-2058.png,46,0,0,0,0,1,0,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-2059.png,70,1,0,0,1,1,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-206.png,76,1,0,0,1,0,1,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-2060.png,24,0,0,0,0,0,1,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-2061.png,50,1,0,1,0,1,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-2062.png,59,0,1,1,1,0,0,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-2063.png,48,1,1,1,0,1,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-2064.png,64,1,0,0,1,0,1,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-2065.png,25,1,1,0,1,0,1,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-2066.png,44,0,1,1,1,0,1,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-2067.png,61,0,0,0,0,1,1,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-2068.png,29,1,1,0,1,0,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-2069.png,53,0,1,0,0,1,0,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-207.png,40,1,0,1,0,1,0,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-2070.png,59,0,0,1,1,1,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-2071.png,65,0,1,0,0,1,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-2072.png,58,0,1,0,0,1,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-2073.png,84,1,0,0,1,0,0,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-2074.png,62,0,1,0,1,0,1,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-2075.png,74,1,0,1,1,0,0,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-2076.png,22,0,0,1,1,0,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-2077.png,49,1,0,0,1,1,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-2078.png,27,1,1,0,0,1,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-2079.png,77,1,1,1,1,0,0,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-208.png,85,0,0,0,0,1,0,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-2080.png,43,0,0,1,0,0,1,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-2081.png,39,1,1,1,1,0,1,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-2082.png,74,1,0,1,1,1,1,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-2083.png,39,0,1,0,1,0,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-2084.png,18,0,0,0,0,1,0,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-2085.png,54,0,0,0,0,0,1,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-2086.png,65,1,1,0,0,0,0,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-2087.png,49,1,0,1,0,1,0,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-2088.png,58,1,0,0,0,0,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-2089.png,36,0,0,1,1,1,1,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-209.png,53,0,0,1,1,0,1,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-2090.png,24,0,1,1,1,0,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-2091.png,51,1,0,0,1,1,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-2092.png,34,0,0,1,0,1,0,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-2093.png,20,1,1,0,0,0,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-2094.png,33,0,1,1,0,1,1,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-2095.png,57,1,1,1,1,1,1,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-2096.png,18,0,0,1,0,0,0,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-2097.png,83,1,1,1,0,0,1,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-2098.png,77,0,0,0,0,1,1,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-2099.png,82,1,0,0,1,0,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-21.png,25,0,0,0,1,1,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-210.png,66,1,1,0,0,0,1,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-2100.png,85,0,1,0,0,0,1,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-2101.png,52,1,1,1,1,1,0,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-2102.png,54,0,0,1,1,0,0,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-2103.png,66,0,1,0,1,1,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-2104.png,35,1,1,1,0,1,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-2105.png,29,1,0,0,1,0,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-2106.png,65,1,1,0,0,0,0,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-2107.png,42,0,1,0,1,1,1,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-2108.png,78,0,0,0,1,0,1,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-2109.png,84,0,1,0,0,1,1,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-211.png,43,0,0,1,0,0,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-2110.png,58,1,1,1,0,0,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-2111.png,49,0,0,0,0,0,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-2112.png,57,0,1,0,0,1,0,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-2113.png,57,1,1,1,1,1,1,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-2114.png,78,1,1,1,1,1,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-2115.png,83,0,0,0,0,0,1,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-2116.png,78,0,1,1,1,0,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-2117.png,50,0,1,0,1,0,1,0,normal,No abnormalities detected on imaging or physical examination.
+Normal-2118.png,34,1,1,1,1,0,1,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-2119.png,25,0,0,0,1,1,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-212.png,52,0,1,0,1,1,1,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-2120.png,26,0,0,0,1,0,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-2121.png,42,1,1,1,0,1,0,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-2122.png,69,0,0,0,1,1,1,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-2123.png,24,1,1,1,1,1,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-2124.png,23,1,0,0,1,1,1,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-2125.png,39,0,1,1,1,1,1,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-2126.png,36,0,0,0,1,1,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-2127.png,45,1,0,1,0,1,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-2128.png,47,1,1,0,0,0,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-2129.png,60,0,1,1,0,1,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-213.png,46,0,0,1,0,0,1,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-2130.png,63,0,1,0,1,1,0,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-2131.png,54,1,1,1,0,0,1,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-2132.png,19,0,1,1,0,1,1,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-2133.png,73,0,0,1,0,1,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-2134.png,58,0,1,1,1,1,1,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-2135.png,36,0,0,1,1,1,0,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-2136.png,37,0,0,1,0,1,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-2137.png,59,1,0,0,0,1,0,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-2138.png,48,1,0,1,1,0,0,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-2139.png,40,0,0,1,1,0,1,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-214.png,32,0,1,0,0,1,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-2140.png,33,1,1,1,0,1,0,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-2141.png,63,1,0,1,0,0,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-2142.png,83,1,1,0,0,0,1,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-2143.png,18,0,0,0,0,1,0,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-2144.png,33,0,1,1,0,1,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-2145.png,80,1,1,1,1,0,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-2146.png,32,0,1,1,0,1,0,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-2147.png,55,1,1,0,0,1,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-2148.png,76,1,0,1,1,0,0,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-2149.png,75,0,1,0,0,1,1,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-215.png,47,1,0,1,1,1,0,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-2150.png,42,0,0,0,0,1,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-2151.png,35,0,0,1,1,1,0,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-2152.png,52,0,0,1,1,1,1,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-2153.png,27,0,1,0,1,0,1,1,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-2154.png,57,0,1,0,1,0,1,0,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-2155.png,26,1,1,0,1,0,0,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-2156.png,51,0,0,1,0,1,0,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-2157.png,25,1,0,0,0,0,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-2158.png,84,0,0,1,1,0,1,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-2159.png,35,0,1,0,0,0,1,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-216.png,50,1,1,1,1,1,0,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-2160.png,62,1,1,1,0,0,1,1,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-2161.png,76,0,0,1,0,1,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-2162.png,51,1,1,0,0,1,1,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-2163.png,44,1,1,1,1,0,1,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-2164.png,51,1,0,1,0,0,1,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-2165.png,18,0,1,0,0,1,1,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-2166.png,21,1,1,0,1,0,1,0,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-2167.png,28,0,0,1,0,1,0,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-2168.png,30,1,1,1,1,1,0,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-2169.png,59,0,0,0,1,1,1,1,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-217.png,59,1,1,0,0,0,0,0,normal,Breathing patterns are regular with no audible wheezing or crackles.
+Normal-2170.png,72,1,1,1,1,1,1,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-2171.png,43,1,0,0,1,1,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-2172.png,65,0,0,0,0,0,1,1,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-2173.png,77,1,0,1,1,1,0,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-2174.png,38,0,1,1,1,1,0,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-2175.png,47,1,0,0,0,1,0,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-2176.png,53,1,1,1,0,0,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-2177.png,36,0,0,1,0,1,0,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-2178.png,54,1,1,0,0,1,0,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-2179.png,37,1,0,1,1,0,0,1,normal,Patient has no history of smoking or exposure to respiratory hazards.
+Normal-218.png,46,0,0,1,1,1,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-2180.png,24,0,0,0,0,1,0,1,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-2181.png,22,0,1,1,0,0,1,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-2182.png,55,1,0,0,0,1,0,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-2183.png,19,1,1,0,0,0,1,1,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-2184.png,64,0,0,1,0,0,1,1,normal,Vital signs are stable with no signs of acute respiratory distress.
+Normal-2185.png,37,1,1,1,0,1,1,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-2186.png,75,1,0,0,1,1,1,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-2187.png,40,0,0,0,1,0,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-2188.png,28,1,0,0,1,0,1,0,normal,Patient denies any shortness of breath or recent respiratory infections.
+Normal-2189.png,58,1,1,1,1,0,1,0,normal,No findings suggestive of infection or inflammation in the lungs.
+Normal-219.png,29,1,0,0,0,1,1,1,normal,No abnormalities detected on imaging or physical examination.
+Normal-2190.png,45,1,0,1,0,1,0,0,normal,No signs of respiratory distress; patient exhibits clear lung sounds.
+Normal-2191.png,53,1,0,1,1,0,1,0,normal,No history of chronic respiratory illness; chest X-ray is normal.
+Normal-2192.png,66,1,1,1,1,1,1,0,normal,Routine checkup reveals no abnormalities in respiratory function.
+Normal-2193.png,44,0,0,0,0,1,0,1,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-2194.png,38,1,1,0,0,0,1,0,normal,"Patient reports no symptoms, and physical exam findings are unremarkable."
+Normal-2195.png,41,1,0,1,0,1,1,0,normal,Vital signs are stable with no signs of acute respiratory distress.

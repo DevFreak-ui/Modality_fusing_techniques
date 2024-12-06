@@ -1,0 +1,37 @@
+image,age,cough,fever,shortness_of_breath,chest_pain,crackles_rales,chest_xray_infiltrates,cbc_elevated_wbc_count,target,notes
+person1000_bacteria_2931.jpeg,25,1,1,1,0,1,0,0,pneumonia,Weight loss and chronic cough are primary symptoms reported.
+person1000_virus_1681.jpeg,60,1,1,0,1,1,0,1,pneumonia,"Symptoms include fatigue, low-grade fever, and persistent cough."
+person1001_bacteria_2932.jpeg,60,0,0,0,1,1,0,1,pneumonia,Chest X-ray reveals infiltrates and nodular opacities in both lungs.
+person1002_bacteria_2933.jpeg,35,1,0,1,1,1,1,1,pneumonia,Night sweats and fever reported; suggestive of active TB infection.
+person1003_bacteria_2934.jpeg,25,1,1,0,0,0,0,1,pneumonia,Persistent cough with intermittent blood-tinged sputum reported.
+person1003_virus_1685.jpeg,35,0,1,0,1,1,1,0,pneumonia,Night sweats and fever reported; suggestive of active TB infection.
+person1004_bacteria_2935.jpeg,60,1,0,0,1,1,0,1,pneumonia,Weight loss and chronic cough are primary symptoms reported.
+person1004_virus_1686.jpeg,35,1,0,0,1,0,1,1,pneumonia,Positive sputum smear test for acid-fast bacilli confirmed.
+person1005_bacteria_2936.jpeg,60,0,1,0,0,1,1,0,pneumonia,Patient reports recent travel to a region with high TB prevalence.
+person1005_virus_1688.jpeg,60,1,0,1,1,1,1,1,pneumonia,Recent exposure to a known TB case; testing initiated promptly.
+person1006_bacteria_2937.jpeg,40,1,1,0,0,1,1,1,pneumonia,Recent exposure to a known TB case; testing initiated promptly.
+person1007_bacteria_2938.jpeg,60,0,1,0,0,1,1,1,pneumonia,Positive sputum smear test for acid-fast bacilli confirmed.
+person1007_virus_1690.jpeg,40,0,1,1,0,0,1,1,pneumonia,Persistent cough with intermittent blood-tinged sputum reported.
+person1008_bacteria_2939.jpeg,55,0,1,0,0,1,0,1,pneumonia,Weight loss and chronic cough are primary symptoms reported.
+person1008_virus_1691.jpeg,55,0,0,0,1,1,0,1,pneumonia,"Chest X-ray shows upper lobe cavitary lesions, consistent with TB."
+person1009_virus_1694.jpeg,50,0,1,1,0,0,1,0,pneumonia,"Symptoms include fatigue, low-grade fever, and persistent cough."
+person100_virus_184.jpeg,40,0,0,0,1,1,1,0,pneumonia,Recent exposure to a known TB case; testing initiated promptly.
+IM-0115-0001.jpeg,35,0,1,1,0,1,0,0,normal,"Symptoms include fatigue, low-grade fever, and persistent cough."
+IM-0117-0001.jpeg,30,1,1,0,0,0,1,0,normal,Patient reports recent travel to a region with high TB prevalence.
+IM-0119-0001.jpeg,45,1,1,1,0,0,0,0,normal,Night sweats and fever reported; suggestive of active TB infection.
+IM-0122-0001.jpeg,60,1,0,0,0,0,0,0,normal,Positive sputum smear test for acid-fast bacilli confirmed.
+IM-0125-0001.jpeg,35,0,1,1,0,1,1,0,normal,Chest X-ray reveals infiltrates and nodular opacities in both lungs.
+IM-0127-0001.jpeg,25,1,0,1,0,1,0,1,normal,"Mantoux test shows induration greater than 15 mm, indicative of TB."
+IM-0128-0001.jpeg,55,0,0,1,1,1,1,0,normal,Night sweats and fever reported; suggestive of active TB infection.
+IM-0129-0001.jpeg,40,0,1,0,0,0,0,0,normal,"Chest X-ray shows upper lobe cavitary lesions, consistent with TB."
+IM-0131-0001.jpeg,35,0,1,1,1,0,1,0,normal,Persistent cough with intermittent blood-tinged sputum reported.
+IM-0133-0001.jpeg,45,0,1,0,0,1,0,1,normal,Chest X-ray reveals infiltrates and nodular opacities in both lungs.
+IM-0117-0001.jpeg,30,1,1,0,0,0,1,0,normal,"Mantoux test shows induration greater than 15 mm, indicative of TB."
+IM-0119-0001.jpeg,45,1,1,1,0,0,0,0,normal,Persistent cough with intermittent blood-tinged sputum reported.
+IM-0122-0001.jpeg,60,1,0,0,0,0,0,0,normal,Patient reports recent travel to a region with high TB prevalence.
+IM-0125-0001.jpeg,35,0,1,1,0,1,1,0,normal,Chest X-ray reveals infiltrates and nodular opacities in both lungs.
+IM-0127-0001.jpeg,25,1,0,1,0,1,0,1,normal,"Mantoux test shows induration greater than 15 mm, indicative of TB."
+IM-0128-0001.jpeg,55,0,0,1,1,1,1,0,normal,"Chest X-ray shows upper lobe cavitary lesions, consistent with TB."
+IM-0129-0001.jpeg,40,0,1,0,0,0,0,0,normal,Weight loss and chronic cough are primary symptoms reported.
+IM-0131-0001.jpeg,35,0,1,1,1,0,1,0,normal,Recent exposure to a known TB case; testing initiated promptly.
+IM-0133-0001.jpeg,45,0,1,0,0,1,0,1,normal,"Chest X-ray shows upper lobe cavitary lesions, consistent with TB."
